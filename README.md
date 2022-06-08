@@ -2,14 +2,9 @@
 
 ##
 
-<div align="left">
-  <a href="https://github.com/kauanhindlmayer">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kauanhindlmayer&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauanhindlmayer&hide=c%2B%2B,cmake,kotlin,swift&layout=compact&langs_count=6&theme=dark"/>
-</div>
+
     
 <div style="display: inline_block"><br>
-  <img align="center" alt="flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg">
   <img align="center" alt="dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-plain.svg">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
