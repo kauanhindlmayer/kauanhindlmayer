@@ -7,11 +7,11 @@
 
 - 👨‍💻 All of my projects are available at ...
 
-- ▶️ I regularly post videos on ...
+- 💬 Ask me about: **JavaScript, HTML, CSS**
 
-- 💬 Ask me about ...
+- 📫 How to reach me: kauanhindlmayer07@gmail.com
 
-- ⚡ Fun fact ...
+- ⚡ Fun fact: ...
 
 <br><br>
     
@@ -47,4 +47,3 @@
   <img align="center" src="https://img.shields.io/badge/-kauanhindlmayer-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 </p>
-  
