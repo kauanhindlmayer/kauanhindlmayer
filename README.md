@@ -1,7 +1,7 @@
 <h1> Hello 👋, I'm Kauan Hindlmayer</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kauanhindlmayer&color=yellow" alt="Profile views" /> </p>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **TypeScript**
 
 - 🔭 I’m currently working at ... 
 
