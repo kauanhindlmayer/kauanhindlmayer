@@ -1,6 +1,7 @@
 <h1> Hello 👋, I'm Kauan Hindlmayer</h1>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=kauanhindlmayer&color=yellow" alt="Profile views" /> </p>
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **React**
 
 - 🔭 I’m currently working at ... 
 
@@ -12,9 +13,10 @@
 
 - ⚡ Fun fact: ...
 
-<br><br>
-    
-## 🛠 &nbsp;Tech Stack
+<br>
+
+<details>
+<summary> <h3>🛠 &nbsp;Tech Stack</h3> </summary>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -25,25 +27,22 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+</details>
 
-<br><br>
-
-
-## ⚙️ &nbsp;GitHub Analytics
-
+<details>
+<summary> <h3>⚙️ &nbsp;GitHub Analytics</h3> </summary>
 <div align="center">
   <a href="https://github.com/kauanhindlmayer">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kauanhindlmayer&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauanhindlmayer&layout=compact&langs_count=7&hide=dart&theme=vision-friendly-dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kauanhindlmayer&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauanhindlmayer&layout=compact&langs_count=7&hide=dart&theme=vision-friendly-dark"/>
 </div>
+</details>
   
-<br><br>  
-  
-## 💬 &nbsp;Social Links
-  
-
+<details>
+<summary> <h3>💬 &nbsp;Social Links</h3> </summary>
 <p align="left" style="background:yellow">
 <a href="https://www.linkedin.com/in/kauan-hindlmayer-a4bb09226/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-kauanhindlmayer-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 </p>
+</details>
