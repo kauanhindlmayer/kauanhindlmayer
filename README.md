@@ -2,20 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Kauan+Hindlmayer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-- 🌱 I’m currently learning **React**
-
-- 🔭 I’m currently working at ... 
-
-- 👨‍💻 All of my projects are available at ...
-
-- 💬 Ask me about: **JavaScript**
-
-- 📫 How to reach me: kauanhindlmayer07@gmail.com
-
-<br>
-
-![Contribution](https://activity-graph.herokuapp.com/graph?username=kauanhindlmayer&theme=gotham&hide_border=true&area=true)
-
 <br>
 
 ## 🛠 &nbsp;Tech Stack
