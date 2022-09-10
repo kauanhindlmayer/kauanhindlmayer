@@ -11,12 +11,9 @@
 
 - 📫 How to reach me: kauanhindlmayer07@gmail.com
 
-- ⚡ Fun fact: ...
-
 <br>
 
-<details>
-<summary> <h3>🛠 &nbsp;Tech Stack</h3> </summary>
+## 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -27,22 +24,21 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-</details>
 
-<details>
-<summary> <h3>⚙️ &nbsp;GitHub Analytics</h3> </summary>
+<br>
+
+## ⚙️ &nbsp;GitHub Analytics
 <div align="center">
   <a href="https://github.com/kauanhindlmayer">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kauanhindlmayer&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauanhindlmayer&layout=compact&langs_count=7&hide=dart&theme=vision-friendly-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kauanhindlmayer&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauanhindlmayer&layout=compact&langs_count=7&hide=dart&theme=vision-friendly-dark"/>
 </div>
-</details>
-  
-<details>
-<summary> <h3>💬 &nbsp;Social Links</h3> </summary>
+
+<br>
+
+## 💬 &nbsp;Social Links
 <p align="left" style="background:yellow">
 <a href="https://www.linkedin.com/in/kauan-hindlmayer-a4bb09226/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-kauanhindlmayer-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 </p>
-</details>
