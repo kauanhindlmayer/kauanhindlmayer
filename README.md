@@ -1,10 +1,21 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<h1> Hello 👋, I'm Kauan Hindlmayer</h1>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=kauanhindlmayer&color=yellow" alt="Profile views" /> </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Kauan+Hindlmayer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+- 🌱 I’m currently learning React
+
+- 🔭 I’m currently working at ... 
+
+- 👨‍💻 All of my projects are available at ...
+
+- 💬 Ask me about: JavaScript
+
+- 📫 How to reach me: kauanhindlmayer07@gmail.com
+
+- ⚡ Fun fact: ...
 
 <br>
 
-## 🛠 &nbsp;Tech Stack
+## 🛠️ &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -20,18 +31,18 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kauanhindlmayer&show_icons=true&count_private=true&title_color=00bfbf&icon_color=00bfbf&text_color=fff&bg_color=0d1117" alt="Kauan Hindlmayer GitHub Analytics" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauanhindlmayer&layout=compact&title_color=00bfbf&text_color=fff&bg_color=0d1117" />
+<div align="center">
+  <a href="https://github.com/kauanhindlmayer%22%3E" target="_blank">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kauanhindlmayer&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true%22/%3E">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauanhindlmayer&layout=compact&langs_count=7&hide=dart&theme=vision-friendly-dark">
 </div>
 
 <br>
 
 ## 💬 &nbsp;Social Links
+
 <p align="left" style="background:yellow">
 <a href="https://www.linkedin.com/in/kauan-hindlmayer-a4bb09226/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-kauanhindlmayer-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 </p>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
