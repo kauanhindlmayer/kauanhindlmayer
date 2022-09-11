@@ -1,13 +1,13 @@
 <h1> Hello 👋, I'm Kauan Hindlmayer</h1>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=kauanhindlmayer&color=yellow" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kauanhindlmayer&color=yellow" alt="Profile views" /> </p>
 
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning **React**
 
-- 🔭 I’m currently working at ... 
+- 🔭 I’m currently working at ...
 
 - 👨‍💻 All of my projects are available at ...
 
-- 💬 Ask me about: JavaScript
+- 💬 Ask me about: **JavaScript**
 
 - 📫 How to reach me: kauanhindlmayer07@gmail.com
 
