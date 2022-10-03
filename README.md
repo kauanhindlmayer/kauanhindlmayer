@@ -1,6 +1,6 @@
 ### Hi there, I'm Kauan Hindlmayer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
-I’m a Web Developer. Currently I'm studying Software Engineering at Católica SC.
+I’m a Web Developer. Currently I'm working as an intern at [Lyncas](https://lyncas.net/). 🚀
 
 #### My current tools 
 
