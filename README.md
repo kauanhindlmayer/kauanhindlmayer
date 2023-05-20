@@ -1,12 +1,12 @@
-### Hi there, I'm Kauan Hindlmayer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
+### Hi, I'm Kauan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
-I'm 18 and I started in software development in 2022, I consider myself a persistent, hardworking and adaptable person. Currently I'm working as a Software Developer at <strong>[Lyncas](https://lyncas.net/)</strong>. 🚀
+I'm a Full-Stack Developer focusing on Vue.js and C#. Currently I'm working at <strong>[Lyncas](https://lyncas.net/)</strong>. 🚀
 
 #### My current tools 
 
 <!-- 📲 Front-end Mobile with React Native <br> -->
 🌎 Front-end Web with Vue.js <br>
-📡 Back-end with C#  
+📡 Back-end with C# <br>
 🛠️ Typescript  
 🧰 And more...  
 
