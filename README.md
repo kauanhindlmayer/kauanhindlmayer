@@ -1,6 +1,6 @@
 ### Hi, I'm Kauan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
-I'm a Full-Stack Developer focusing on Vue.js and C#. Currently I'm working at <strong>[Lyncas](https://lyncas.net/)</strong>. 🚀
+I'm a Full-Stack Developer focusing on Vue.js and C#. Currently I'm working at <strong>[Dev.Pro](https://dev.pro/)</strong>. 🚀
 
 #### My current tools 
 
